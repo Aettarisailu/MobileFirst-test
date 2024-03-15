@@ -1,5 +1,5 @@
 .container {
-    max-width: 800px;
+    width: 800px;
     margin: 50px auto;
   }
   
@@ -24,4 +24,6 @@
   .table-hover tbody tr:hover {
     background-color: rgba(0, 0, 0, 0.075);
   }
-  
+  .Category_Joke{
+    color: rgb(0, 0, 0);
+  }

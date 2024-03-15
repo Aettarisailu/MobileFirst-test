@@ -17,7 +17,7 @@ const Home = () => {
       <h2>Jokes</h2>
       <table className="table table-striped table-hover">
         <thead>
-          <tr>
+          <tr className='Category_Joke'>
             <th scope="col">Category</th>
             <th scope="col">Joke</th>
           </tr>
